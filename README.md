@@ -9,5 +9,14 @@
 
 <img src="cellphones-huynh-tan-phat.jpg"/>
 
-### :art: Các công cụ hỗ trợ :wrench:
-![firebase](https://firebase.google.com/?gad=1&gclid=CjwKCAjwysipBhBXEiwApJOcu_zqNv95jDB83Ghmir3J-m8zj4N2fCoE9dRUsf8ejJgxlpGM3J2yhxoCIOwQAvD_BwE&gclsrc=aw.ds)
+### 🎨 Các công cụ hỗ trợ 🔧
+<p align = "left">
+  <a href="https://developer.android.com/studio" target ="_blank" rel="moreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" atl="andorid" width="40" height = "40"/>
+  </a>
+  <a href="https://firebase.google.com/?gad=1&gclid=CjwKCAjwysipBhBXEiwApJOcu_zqNv95jDB83Ghmir3J-m8zj4N2fCoE9dRUsf8ejJgxlpGM3J2yhxoCIOwQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="moreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alth="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="moreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alth="Github" width="40" height="40"/>
+  </a>
+</p>
