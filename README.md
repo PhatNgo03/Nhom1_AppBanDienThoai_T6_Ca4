@@ -20,3 +20,36 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alth="Github" width="40" height="40"/>
   </a>
 </p>
+#### : Các thành viên có trong team :
+ <table>
+        <tr>
+            <th>Number</th>
+            <th>Name</th>
+            <th>Account</th>
+            <th>Role</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Nguyễn Thanh Bình</td>
+            <td>nguyenthanhbinh2610</td>
+            <td>Product Owner, Dev</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Lê Nguyễn Gia Bảo</td>
+            <td>Zebao1511</td>
+            <td>ScrumMaster, Dev</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Nguyễn Minh Khang</td>
+            <td>KhangNguyen1302</td>
+            <td>TeamLead, Dev</td>
+        </tr>
+       <tr>
+            <td>4</td>
+            <td>Ngô Trần Hoàng Phát</td>
+            <td>PhatNgo03</td>
+            <td>Dev</td>
+        </tr>
+    </table>
