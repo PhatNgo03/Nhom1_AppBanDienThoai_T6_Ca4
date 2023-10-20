@@ -22,7 +22,8 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alth="Github" width="40" height="40"/>
   </a>
 </p>
-#### : Các thành viên có trong team :
+
+### :construction_worker: Các thành viên có trong team :feelsgood:
  <table>
         <tr>
             <th>Number</th>
