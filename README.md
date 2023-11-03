@@ -59,13 +59,37 @@
 
 ### :sparkles: Những gì đã làm được :white_check_mark:
 Hiện tại đã hoàn thành: 
-- Sprint 1 với các chức năng như: Xem trang chủ, Xem danh sách sản phẩm, Đăng ký, Đăng nhập, Xem chi tiết sản phẩm, Đăng xuất, Chỉnh sửa thông tin cá nhân.
+- Sprint 1 với các chức năng như:
+  <ul>
+     <li>Xem trang chủ.</li>
+     <li>Xem danh sách sản phẩm.</li>
+     <li>Đăng ký, Đăng nhập, Đăng xuất.</li>
+     <li>Xem chi tiết sản phẩm</li>
+     <li>Chỉnh sửa thông tin cá nhân.</li>
+  </ul>
+  <br/>
 - Sprint 2: Đã hoàn thành các chức năng như
   <ul>
      <li>Quản lí sản phẩm.</li>
      <li>Quản lí giỏ hàng.</li>
+     <li>Mua hàng</li>
+     <li>Xem tất cả đơn hàng</li>
+     <li>Xem thông tin chi tiết đơn hàng</li>
+     <li>Xem phương thức thanh toán</li>
+     <li>Quản lí mua hàng</li>
+     <li>Xem lịch sử mua hàng</li>
   </ul>
-- Sprint 3: Chưa làm
+  <br/>
+- Sprint 3: Đang hoàn thiện:
+  <ul>
+     <li>Quản lý người dùng</li>
+     <li>Quản lý kho</li>
+     <li>Xem thông tin vận chuyển</li>
+     <li>Hủy đơn hàng</li>
+     <li>Phân loại khách hàng</li>
+     <li>Tạo khảo sát về ý kiến người dùng</li>
+     <li>Đánh giá sản phẩm</li>
+  </ul>
 
 <br/>
 ### :dragon_face: Hướng phát triển :trident:
