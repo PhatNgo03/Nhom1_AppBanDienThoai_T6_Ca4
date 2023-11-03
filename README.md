@@ -9,7 +9,7 @@
   - Để mở rộng hoạt động kinh doanh của mình, công ty muốn xây dựng một ứng dụng thương mại điện tử nhằm thuận tiện cho khách hàng đặt và mua các sản phẩm của công ty ở bất cứ đâu, cung cấp các mặt hàng mới nhất và tốt nhất.
   - Hệ thống mới sẽ đảm bảo cho khách hàng tự do xem các sản phẩm có trong  App, dễ dàng tìm kiếm, lựa chọn các sản phẩm ưa thích, việc mua hàng được thực hiện nhanh chóng, quá trình thanh toán đơn hàng đa dạng đảm bảo và tuân thủ các chính sách của công ty. Bên cạnh đó,chức năng thanh toán sẽ có nhiều sự lựa chọn cho khách hàng như thanh toán trực tiếp khi đặt mua sản phẩm hoặc thanh toán qua các ví điện tử như Momo.Ngoài ra, khách hàng nếu có nhu cầu hủy đơn hàng hoặc hoàn trả đơn hàng thì hệ thống cũng sẵn sàng đáp ứng và thực hiện việc hoàn tiền 100% .Với các chính sách ưu đãi mà chúng tôi đem lại chắc chắn sẽ giúp cho khách hàng cảm thấy hài lòng về sản phẩm của chúng tôi.
 
-<p align="center">
+<p align="center" style="border-radius: 15">
   <img src="mung-khai-truong-CellphoneS-face-scaled.jpg" style="border-radius:15;" />
 </p>
 
