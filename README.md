@@ -8,12 +8,8 @@
   - Ngày này công nghệ vô cùng phát triển và càng trởi nên phổ biến trong đời sống hiện nay. Việc mọi người đều sỡ hữu cho mình những chiếc điện thoại thông hay smartphone ngày một nhiều hơn và thông dụng hơn. Những chiếc điện thoại di động giúp mọi người dễ dàng hơn trong việc tra cứu thông tin, dễ dàng giao tiếp và dễ dàng tiếp cận nhau hơn thông qua mạng xã hội. Việc các cửa hàng bán điện thoại cũng trởi nên một nhiều hơn và dễ dàng tiếp cận khách hàng và giúp khách hàng thuận tiện hơn trong việc mua các sản phẩm điện thoại mới nhất thì App CellphoneS ra đời với đầy đủ các chức năng như đặt hàng, xem thông tin chi tiết sản phẩm.
   - Để mở rộng hoạt động kinh doanh của mình, công ty muốn xây dựng một ứng dụng thương mại điện tử nhằm thuận tiện cho khách hàng đặt và mua các sản phẩm của công ty ở bất cứ đâu, cung cấp các mặt hàng mới nhất và tốt nhất.
   - Hệ thống mới sẽ đảm bảo cho khách hàng tự do xem các sản phẩm có trong  App, dễ dàng tìm kiếm, lựa chọn các sản phẩm ưa thích, việc mua hàng được thực hiện nhanh chóng, quá trình thanh toán đơn hàng đa dạng đảm bảo và tuân thủ các chính sách của công ty. Bên cạnh đó,chức năng thanh toán sẽ có nhiều sự lựa chọn cho khách hàng như thanh toán trực tiếp khi đặt mua sản phẩm hoặc thanh toán qua các ví điện tử như Momo.Ngoài ra, khách hàng nếu có nhu cầu hủy đơn hàng hoặc hoàn trả đơn hàng thì hệ thống cũng sẵn sàng đáp ứng và thực hiện việc hoàn tiền 100% .Với các chính sách ưu đãi mà chúng tôi đem lại chắc chắn sẽ giúp cho khách hàng cảm thấy hài lòng về sản phẩm của chúng tôi.
-
 <img src="cellphones.jpg" style="border-radius:50%" />
-
 <br/>
-
-
 <h3>🎨 Các công cụ hỗ trợ 🔧</h3>
 <p align = "left">
   <a href="https://developer.android.com/studio" target ="_blank" rel="moreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" atl="andorid" width="40" height = "40"/>
@@ -25,7 +21,6 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alth="Github" width="40" height="40"/>
   </a>
 </p>
-
 <br/>
 <h3>:construction_worker: Các thành viên có trong team :feelsgood:</h3>
  <table>
@@ -60,7 +55,6 @@
             <td>Dev</td>
         </tr>
     </table>
-
 <br/>
 <br/>
 <h3>:sparkles: Những gì đã làm được :white_check_mark:</h3>
@@ -96,7 +90,6 @@ Hiện tại đã hoàn thành:
      <li>Tạo khảo sát về ý kiến người dùng</li>
      <li>Đánh giá sản phẩm</li>
   </ul>
-
 <br/>
 <br/>
 <h3>:dragon_face: Hướng phát triển :trident:</h3>
@@ -108,14 +101,11 @@ Hiện tại đã hoàn thành:
    <li>Cải thiện thêm giao diện cho App</li>
    <li>Tối ưu ứng dụng</li>
 </ul>
-
 <br/>
 <br/>
-
 <div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
 </div>
-
 <br/>
 <h1 align="center"> :heart: Thanks For Watching :heart: </h2>
 
