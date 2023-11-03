@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; text-align: center">
-  # :iphone: App Bán Điện Thoại Di Động :iphone:
-</div>
+ # :iphone: App Bán Điện Thoại Di Động Nhóm 1 :iphone:
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=900&size=32&pause=1000&color=F70000&background=FFFFFF00&random=false&width=1000&height=60&lines=Welcome+you+to+our+company%3A+Schannel+with+CellphoneS+App" alt="Typing SVG" /></a>
 </h1>
