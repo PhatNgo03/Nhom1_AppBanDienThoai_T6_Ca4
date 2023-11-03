@@ -12,8 +12,7 @@
 <img src="cellphones.jpg" style="border-radius:50%" />
 
 <br/>
-<br/>
-<br/>
+
 
 <h3>🎨 Các công cụ hỗ trợ 🔧</h3>
 <p align = "left">
@@ -28,8 +27,6 @@
 </p>
 
 <br/>
-<br/>
-
 <h3>:construction_worker: Các thành viên có trong team :feelsgood:</h3>
  <table>
         <tr>
@@ -66,7 +63,7 @@
 
 <br/>
 <br/>
-### :sparkles: Những gì đã làm được :white_check_mark:
+<h3>:sparkles: Những gì đã làm được :white_check_mark:</h3>
 Hiện tại đã hoàn thành: 
 - Sprint 1 với các chức năng như:
   <ul>
@@ -102,7 +99,7 @@ Hiện tại đã hoàn thành:
 
 <br/>
 <br/>
-### :dragon_face: Hướng phát triển :trident:
+<h3>:dragon_face: Hướng phát triển :trident:</h3>
 <ul>
    <li>Phát triển thêm chức năng quản lí và áp dụng các mã ưu đãi.</li>
    <li>Cải thiện tốc độ xử lí của ứng dụng.</li>
