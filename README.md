@@ -1,3 +1,12 @@
+<style>
+   .members td a{
+      text-decoration:none;
+      display:flex;
+      justify-content:center;
+      width: 50;
+      height:50;
+   }
+</style>
    # :iphone: App Bán Điện Thoại Di Động Nhóm 1 :iphone:
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&weight=900&size=32&pause=1000&color=F70000&background=FFFFFF00&random=false&width=1000&height=60&lines=Welcome+you+to+our+company%3A+Schannel+with+CellphoneS+App" alt="Typing SVG" /></a>
@@ -23,7 +32,7 @@
 </p>
 <br/>
 <h3>:construction_worker: Các thành viên có trong team :feelsgood:</h3>
- <table style="text-decoration:none">
+ <table style="text-decoration:none" class="members">
         <tr>
             <th>Number</th>
             <th>Name</th>
