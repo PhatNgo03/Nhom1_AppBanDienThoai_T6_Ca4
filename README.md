@@ -23,13 +23,13 @@
 </p>
 <br/>
 <h3>:construction_worker: Các thành viên có trong team :feelsgood:</h3>
- <table>
+ <table style="text-decoration:none">
         <tr>
             <th>Number</th>
             <th>Name</th>
             <th>Account</th>
             <th>Role</th>
-            <th>Link</th>
+            <th>Link GitHub</th>
         </tr>
         <tr>
             <td>1</td>
