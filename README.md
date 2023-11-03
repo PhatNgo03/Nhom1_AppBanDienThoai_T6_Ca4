@@ -14,7 +14,8 @@
 <br/>
 <br/>
 <br/>
-### 🎨 Các công cụ hỗ trợ 🔧
+
+<h3>🎨 Các công cụ hỗ trợ 🔧</h3>
 <p align = "left">
   <a href="https://developer.android.com/studio" target ="_blank" rel="moreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" atl="andorid" width="40" height = "40"/>
   </a>
@@ -28,7 +29,8 @@
 
 <br/>
 <br/>
-### :construction_worker: Các thành viên có trong team :feelsgood:
+
+<h3>:construction_worker: Các thành viên có trong team :feelsgood:</h3>
  <table>
         <tr>
             <th>Number</th>
