@@ -60,11 +60,23 @@
 ### :sparkles: Những gì đã làm được :white_check_mark:
 Hiện tại đã hoàn thành: 
 - Sprint 1 với các chức năng như: Xem trang chủ, Xem danh sách sản phẩm, Đăng ký, Đăng nhập, Xem chi tiết sản phẩm, Đăng xuất, Chỉnh sửa thông tin cá nhân.
-- Sprint 2: Đã hoàn thành 1 nửa.
+- Sprint 2: Đã hoàn thành các chức năng như
+  <ul>
+     <li>Quản lí sản phẩm.</li>
+     <li>Quản lí giỏ hàng.</li>
+  </ul>
 - Sprint 3: Chưa làm
 
 <br/>
-### :dragon_face: Hướng phát triển 
+### :dragon_face: Hướng phát triển :trident:
+<ul>
+   <li>Phát triển thêm chức năng quản lí và áp dụng các mã ưu đãi.</li>
+   <li>Cải thiện tốc độ xử lí của ứng dụng.</li>
+   <li>Thêm chức năng thông báo cho User mỗi khi có các chương trình giảm giá</li>
+   <li>Phát triển tính năng giảm giá các sản phẩm có thời hạn</li>
+   <li>Cải thiện thêm giao diện cho App</li>
+   <li>Tối ưu ứng dụng</li>
+</ul>
 
 <br/>
 
