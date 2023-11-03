@@ -12,6 +12,8 @@
 <img src="cellphones.jpg" style="border-radius:50%" />
 
 <br/>
+<br/>
+<br/>
 ### 🎨 Các công cụ hỗ trợ 🔧
 <p align = "left">
   <a href="https://developer.android.com/studio" target ="_blank" rel="moreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" atl="andorid" width="40" height = "40"/>
@@ -24,6 +26,7 @@
   </a>
 </p>
 
+<br/>
 <br/>
 ### :construction_worker: Các thành viên có trong team :feelsgood:
  <table>
