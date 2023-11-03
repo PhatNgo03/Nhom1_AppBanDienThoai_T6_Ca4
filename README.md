@@ -29,30 +29,35 @@
             <th>Name</th>
             <th>Account</th>
             <th>Role</th>
+            <th>Link</th>
         </tr>
         <tr>
             <td>1</td>
             <td>Nguyễn Thanh Bình</td>
             <td>nguyenthanhbinh2610</td>
             <td>Product Owner, Dev</td>
+            <td><a href="https://github.com/nguyenthanhbinh2610">🐩</a></td>
         </tr>
         <tr>
             <td>2</td>
             <td>Lê Nguyễn Gia Bảo</td>
             <td>Zebao1511</td>
             <td>ScrumMaster, Dev</td>
+            <td><a href="https://github.com/Zebao1511">🐉</a></td>
         </tr>
         <tr>
             <td>3</td>
             <td>Nguyễn Minh Khang</td>
             <td>KhangNguyen1302</td>
             <td>TeamLead, Dev</td>
+            <td><a href="https://github.com/KhanKhan1302">🦏</a></td>
         </tr>
        <tr>
             <td>4</td>
             <td>Ngô Trần Hoàng Phát</td>
             <td>PhatNgo03</td>
             <td>Dev</td>
+            <td><a href="https://github.com/PhatNgo03">🦅</a></tf>
         </tr>
     </table>
 <br/>
