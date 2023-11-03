@@ -11,6 +11,7 @@
 
 <img src="cellphones.jpg" style="border-radius:50%" />
 
+<br/>
 ### 🎨 Các công cụ hỗ trợ 🔧
 <p align = "left">
   <a href="https://developer.android.com/studio" target ="_blank" rel="moreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" atl="andorid" width="40" height = "40"/>
@@ -23,6 +24,7 @@
   </a>
 </p>
 
+<br/>
 ### :construction_worker: Các thành viên có trong team :feelsgood:
  <table>
         <tr>
@@ -57,6 +59,8 @@
         </tr>
     </table>
 
+<br/>
+<br/>
 ### :sparkles: Những gì đã làm được :white_check_mark:
 Hiện tại đã hoàn thành: 
 - Sprint 1 với các chức năng như:
@@ -92,6 +96,7 @@ Hiện tại đã hoàn thành:
   </ul>
 
 <br/>
+<br/>
 ### :dragon_face: Hướng phát triển :trident:
 <ul>
    <li>Phát triển thêm chức năng quản lí và áp dụng các mã ưu đãi.</li>
@@ -102,6 +107,7 @@ Hiện tại đã hoàn thành:
    <li>Tối ưu ứng dụng</li>
 </ul>
 
+<br/>
 <br/>
 
 <div align="center">
