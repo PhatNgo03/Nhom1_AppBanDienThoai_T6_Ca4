@@ -1,11 +1,4 @@
 <h1>
-  <style>
-    h1{
-      display: flex;
-      text-align:center;
-      justify-content:center;
-    }
-  </style>
   :iphone: App Bán Điện Thoại Di Động Nhóm 1 :iphone:
 </h1>
 <h1 align="center">
